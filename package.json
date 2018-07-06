@@ -1,7 +1,7 @@
 {
   "name": "node-kayako",
   "description": "access to the kayako helpdesk api",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Florian Holzapfel",
     "email": "flo.holzapfel@gmail.com"
